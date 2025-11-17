@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "988051681969",
+    "project_id": "bigbasketclass",
+    "storage_bucket": "bigbasketclass.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988051681969:android:5e26da800b0c0d24fe2890",
+        "android_client_info": {
+          "package_name": "com.example.big_basket_class"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXUtVJaNJh3y-bP6D2FwaVvdxFf-iP0D0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
